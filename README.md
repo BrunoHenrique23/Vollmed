@@ -69,6 +69,6 @@ O Vollmed utiliza a arquitetura **MVVM (Model-View-ViewModel)**, garantindo uma 
 Desenvolvedor iOS | Swift | SwiftUI | UX para Mobile | Alura
 
 📧 bhferrassilva@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/brunosilva20)
+🔗 [LinkedIn](https://www.linkedin.com/in/brunosilva20/)
 
 ---
